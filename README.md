@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [thirdfunding](https://github.com/GopalVerma1303/thirdfunding)
 
-- 🌱 I’m currently learning **System Designe**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on [Cryptonagari](https://github.com/GopalVerma1303/Cryptonagari)
 
