@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Qy7pgY1wy7mQjm54Gl7bE67mtnY2PFYq/view](https://drive.google.com/file/d/1Qy7pgY1wy7mQjm54Gl7bE67mtnY2PFYq/view)
 
-- ⚡ Fun fact **I take fun seriously.**
+- ⚡ Fun fact **I take fun seriously**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
