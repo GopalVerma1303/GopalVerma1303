@@ -5,32 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalverma1303" alt="gopalverma1303" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bettercallgopal" target="blank"><img src="https://img.shields.io/twitter/follow/bettercallgopal?logo=twitter&style=for-the-badge" alt="bettercallgopal" /></a> </p>
-
-- 🔭 I’m currently working on [thirdfunding](https://github.com/GopalVerma1303/thirdfunding)
-
-- 🌱 I’m currently learning **System Design**
-
-- 👯 I’m looking to collaborate on [Cryptonagari](https://github.com/GopalVerma1303/Cryptonagari)
-
-- 🤝 I’m looking for help with [MachineLearningModels](https://github.com/GopalVerma1303/MachineLearningModels)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-vgopaldps1-gmailcom.vercel.app/](https://portfolio-vgopaldps1-gmailcom.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@vgopaldps](https://medium.com/@vgopaldps)
-
-- 💬 Ask me about **Full-Stack Development**
-
-- 📫 How to reach me **vgopaldps@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Qy7pgY1wy7mQjm54Gl7bE67mtnY2PFYq/view](https://drive.google.com/file/d/1Qy7pgY1wy7mQjm54Gl7bE67mtnY2PFYq/view)
-
-- ⚡ Fun fact **I take fun seriously**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/gopalverma1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gopalverma1303" height="30" width="40" /></a>
