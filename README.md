@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://bettercallgopal.vercel.app">gopx.dev</a> .
+    <a href="https://www.gopx.dev">gopx.dev</a> .
     <a href="https://bettercallgopal.vercel.app/blogs">blog</a> .
     <a href="https://bettercallgopal.vercel.app/showcase">projects</a> .
     <a href="https://bettercallgopal.vercel.app/notebooks">notes</a> .
