@@ -1,11 +1,10 @@
 <p align="center">
   <samp>
     <a href="https://www.gopx.dev">gopx.dev</a> .
-    <a href="https://www.gopx.dev/blogs">blog</a> .
-    <a href="https://www.gopx.dev/showcase">projects</a> .
-    <a href="https://www.gopx.dev/notebooks">notes</a> .
-    <a href="https://www.gopx.dev/about">about</a> .
-    <a href="https://drive.google.com/file/d/1NO-hoN5dveXg65_qOUbC9vk9bIjBVn0r/view?usp=sharing">resume</a> .
+    <a href="https://www.gopx.dev/diary/blogs">blogs</a> .
+    <a href="https://www.gopx.dev/projects">projects</a> .
+    <a href="https://www.gopx.dev/diary/notes">notes</a> .
+    <a href="https://www.gopx.dev/arts">arts</a> .
     <a href="https://twitter.com/bettercallgopal">twitter</a> .
     <a href="https://www.linkedin.com/in/vermagopal/">linkedin</a> .
     <a href="https://cal.com/bettercallgopal/personalizedcall">book-a-call</a> .
