@@ -1,15 +1,15 @@
 <p align="center">
   <samp>
-    <a href="https://www.gopx.dev">gopx.dev</a> .
-    <a href="https://www.gopx.dev/diary/blogs">blogs</a> .
-    <a href="https://www.gopx.dev/diary/notes">notes</a> .
-    <a href="https://www.gopx.dev/projects">projects</a> .
-    <a href="https://www.gopx.dev/arts">arts</a> .
-    <a href="https://www.gopx.dev/gears">gears</a> .
+    <a href="https://gopx.dev">gopx.dev</a> .
+    <a href="https://gopx.dev/diary/blogs">blogs</a> .
+    <a href="https://gopx.dev/diary/notes">notes</a> .
+    <a href="https://gopx.dev/projects">projects</a> .
+    <a href="https://gopx.dev/arts">arts</a> .
+    <a href="https://gopx.dev/gears">gears</a> .
     <a href="https://twitter.com/bettercallgopal">twitter</a> .
     <a href="https://www.linkedin.com/in/vermagopal/">linkedin</a> .
     <a href="https://discord.com/invite/uR7DpxtaKw">discord</a> .
-    <a href="https://cal.com/bettercallgopal/personalizedcall">book-a-call</a>
+    <a href="https://gopx.dev/chat">chat</a>
   </samp>
 </p>
 <!-- <br /> -->
